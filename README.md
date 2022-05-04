@@ -6,6 +6,7 @@
 - [그린랩스](https://greenlabs.co.kr/%ec%b1%84%ec%9a%a9%ec%a0%95%eb%b3%b4/%ea%b0%9c%eb%b0%9c%ec%b1%84%ec%9a%a9/)
 - [라인플러스](https://careers.linecorp.com/jobs?ca=Engineering&ci=Seoul,Bundang&co=East%20Asia)
 - [Gitlab](https://about.gitlab.com/jobs/)
+- [직방](https://career.zigbang.com/work)
 
 # 확인 중
 - [스트리미](https://github.com/gopax/Recruit)
