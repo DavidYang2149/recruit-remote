@@ -7,6 +7,7 @@
 - [라인플러스](https://careers.linecorp.com/jobs?ca=Engineering&ci=Seoul,Bundang&co=East%20Asia)
 - [Gitlab](https://about.gitlab.com/jobs/)
 - [직방](https://career.zigbang.com/work)
+- [업스테이지](https://www.upstage.ai/careers)
 
 # 확인 중
 - [스트리미](https://github.com/gopax/Recruit)
